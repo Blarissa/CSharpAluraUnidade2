@@ -1,6 +1,6 @@
 # Unidade 02
-## :heavy_check_mark: HTTP
-### :heavy_check_mark: Entendendo a web por baixo dos panos
+
+## :heavy_check_mark: HTTP: Entendendo a web por baixo dos panos
 - O que é HTTP? 
 - A web segura - HTTPS
 - Endereços sob seu domínio
@@ -13,8 +13,7 @@
 ## :heavy_check_mark: Artigo
 - O que é uma API?
 
-## C#
-### Paralelismo no mundo real
+## C: Paralelismo no mundo real
 - Usando Threads
 - Usando Tasks
 - Usando o AsyncAwait do C#
